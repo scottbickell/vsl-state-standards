@@ -495,3 +495,8 @@ sup {
 
 .items {
   background: #ececec; }
+
+p.download-section {
+  text-align: center;
+  font-size: 14px !important;
+  margin-bottom: 5px; }
