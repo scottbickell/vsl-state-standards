@@ -197,6 +197,13 @@ table.float-center {
   float: none;
   text-align: center; }
 
+@media only screen and (max-width: 616px) {
+  table.body table.container .show-for-large {
+    display: none !important;
+    width: 0;
+    mso-hide: all;
+    overflow: hidden; } }
+
 body,
 table.body,
 h1,
